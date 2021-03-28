@@ -4,7 +4,7 @@
 
 # HackFake  
 
-### the leading software for creating deepfakes
+### 盜臉駭客製作-手機換臉繁中版
 
 <img src="doc/DFL_welcome.png" align="center">
 
@@ -13,9 +13,9 @@
 
 <p align="center">
 
-![](doc/logo_cuda.png)
-![](doc/logo_tensorflow.png)
-![](doc/logo_python.png)
+![](https://github.com/iperov/DeepFaceLab/doc/logo_cuda.png)
+![](https://github.com/iperov/DeepFaceLab/doc/logo_tensorflow.png)
+![](https://github.com/iperov/DeepFaceLab/doc/logo_python.png)
 
 </p>
 
